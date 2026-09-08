@@ -1,0 +1,15 @@
+.some-products{
+    background-color: #C6F500;
+}
+
+.justify{
+    text-align: justify;
+}
+
+footer{
+    min-height: 50px;
+}
+
+footer a{
+    text-decoration: none;
+}
