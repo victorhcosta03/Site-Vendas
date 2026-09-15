@@ -6,6 +6,11 @@
     text-align: justify;
 }
 
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+}
+
 footer{
     min-height: 50px;
 }
